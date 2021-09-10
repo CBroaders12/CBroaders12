@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/67294112/132587022-11a49e33-a5ee-4e2a-8e27-d6af5681760b.png" alt="Conor Broaders Brand Logo" />
+  <a href="https://conorbroaders.dev/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/67294112/132587022-11a49e33-a5ee-4e2a-8e27-d6af5681760b.png" alt="Conor Broaders Brand Logo" />
+  </a>
 </div>
 
 ****
@@ -17,7 +19,7 @@ I'm Conor, a full-stack developer! I like to play around with technologies and s
 
 ****
 
-Find me on [LinkedIn](https://www.linkedin.com/in/conor-broaders/)
+Find me on [LinkedIn](https://www.linkedin.com/in/conor-broaders/) or [check out my website](https://conorbroaders.dev/)
 
 <!--
 **CBroaders12/CBroaders12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
