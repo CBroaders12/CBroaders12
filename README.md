@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I'm Conor, a full-stack developer! I like to play around with technologies and see what it out there. Learning is and always has been my primary drive, whether that means learning how to build something with new tools, or helping others do the same. When I am not at my computer coding I am probably reading, singing, or taking a walk.
+I'm Conor, a full-stack developer! I currently specialize in Node.js and React, but I like to play around with and learn new technologies to see what it out there. Learning is and always has been my primary drive, whether that means learning how to build something with new tools, or helping others do the same. When I am not at my computer coding I am probably reading, singing, or taking a walk.
 
 ****
 
